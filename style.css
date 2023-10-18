@@ -1,0 +1,67 @@
+.button{
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+}
+.recipes{
+    background-color: yellow;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    border: none;
+}
+.head{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.d{
+    display: inline-flex;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.back{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/img/Firefly\ 20231005220008.png);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.but{
+    background-color: whitesmoke;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    color: #000;
+}
+.s3{
+    margin-bottom: 150px;
+    color: #000;
+    text-align: center;
+}
+.s3-h5{
+    font-size: 4vmin;
+}
+.s3-h1{
+    word-wrap: break-word;
+}
+.s{
+    color: whitesmoke;
+}
+.red{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
+}
